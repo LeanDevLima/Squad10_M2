@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Visualizador de PDF</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.min.js"></script>
+</head>
+<body>
+  <h1>Visualizador de PDF</h1>
+  <div>
+    <canvas id="pdfCanvas"></canvas>
+  </div>
+  <script>
+    const url = 'projeto-final-M2.pdf';
+    pdfjsLib.getDocument(url).promise.then(pdf => {
+      const page = pdf.getPage(1);
+      const canvas = document.getElementById('pdfCanvas');
+      const context = canvas.getContext('2d');
+      const viewport = page.getViewport({ scale: 1.5 });
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+      page.render({ canvasContext: context, viewport: viewport });
+    });
+  </script>
+</body>
+</html>
