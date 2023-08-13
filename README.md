@@ -3,12 +3,17 @@
 Neste espaço, você encontrará uma coleção valiosa de atividades realizadas durante o Módulo 2 do curso de Quality Assurance oferecido pelo [**Instituto JogaJunto**](https://www.jogajuntoinstituto.org/). Sinta-se à vontade para explorar cada atividade, uma vez que todas foram minuciosamente planejadas e executadas de maneira colaborativa em grupo.
 
 
+Clique nas "►" abaixo para visualizar os conteúdos trabalhados nesse módulo. Para recolher o conteúdo, basta clicar nas "▼" novamente.  😁
+
+___
 <details>
 <summary> Módulo 2 Aula 1 - Pesquisas</summary>
 
+___
+
 <details>
 <summary>🚀 Desvendando os Benefícios da Gestão de Projetos 🌟</summary>
-
+<br>
 O propósito dessa atividade era pesquisar os benefícios de uma boa gestão de projetos e dentre estes mesmos benefícios escolher apenas dois e juntificar o motivo dessa escolha. 
 
 ## Benefícios Destacados 🌈
@@ -45,8 +50,12 @@ Essas escolhas são baseadas na importância de cumprir prazos e orçamentos, be
 
 </details>
 
+___
+
 <details>
 <summary>🚀 Desvendando as Metodologias Ágeis 🌟</summary>
+<br>
+O propósito dessa atividade era pesquisar os tipos de metodologias ágeis e dentre estas mesmas metodologias escolher apenas dois e juntificar o motivo dessa escolha.
 
 ## Metodologias Ágeis e Suas Descrições
 
@@ -82,11 +91,18 @@ O Lean Six Sigma é uma abordagem que combina os princípios do Lean Manufacturi
 
 </details>
 
+___
+
 <details>
 <summary>Módulo 2 Aula 2 - Atividades Práticas </summary>
 
+___
+
+
 <details>
 <summary>Quebra-Cabeça</summary>
+
+
 
 Essa atividade consistiu em montar um quebra-cabeça referente a organização coreta de como aplicar metodologia ágil em um projeto. Portanto recebemos o quebra cabeça da seguinte forma: 
 
@@ -102,9 +118,12 @@ Cada integrante do grupo montou o quebra cabeça à sua maneira e obtemos os seg
 
 </details>
 
+___
 
 <details>
 <summary>LovePet / Bitrix</summary>
+
+<br>
 
 Essa atividade consistiu em exercitar os conceitos a respeito de projetos e metodologias usando a ferramenta Bitrix, conforme orientado na plataforma do Instituto JogaJunto criamos a LovePet.
 
@@ -112,7 +131,7 @@ Essa atividade consistiu em exercitar os conceitos a respeito de projetos e meto
 
 Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. 📱 Cada etapa do processo foi cuidadosamente estruturada, unindo pensamento estratégico com inovação. Esse projeto não apenas solidificou nossa compreensão das metodologias ágeis, mas também demonstrou nossa capacidade de contribuir efetivamente em um contexto de desenvolvimento prático e aplicado.
 
-# Aventura Ágil do LovePet - Backlog e Sprints 🛤️🏃‍♀️
+## Aventura Ágil do LovePet - Backlog e Sprints 🛤️🏃‍♀️
 
 ## Sprint 1 - Primeiros Passos 🐾🌊
 
@@ -156,23 +175,26 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 - Comprometemo-nos a manter uma interface de aplicativo intuitiva e amigável, cativando e retendo nossos usuários! 💖
 - Lembrem-se de que nosso plano é uma sugestão dinâmica, sujeita a ajustes com base nas necessidades do projeto, capacidade da equipe de desenvolvimento e feedback valioso dos usuários ao longo da jornada de desenvolvimento.
 
-Fiquem à vontade para explorar nossa jornada! 🚀💌
 
 
 </details>
 
-
-
-
 </details>
+
+___
+
 
 <details>
 <summary>Módulo 2 Aula 3 - Projeto Final</summary>
+<br>
 
-Aqui está o texto que pode ser expandido ou recolhido. Você pode adicionar mais informações, detalhes ou qualquer conteúdo que desejar.
+
+
+![projetoFinal](projeto-final-M2.pdf)
 
 </details>
 
+___
 
 ## Integrantes do grupo 📌
 
