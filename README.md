@@ -135,9 +135,15 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 ## Sprint 1 - Primeiros Passos 🐾🌊
 
+
 **Backlog:**
-- Desenvolver a funcionalidade de registro de usuário 📝
-- Criar a funcionalidade de registro do cuidador 🐕‍🦺
+
+| Descrição | Aplicação no Bitrix |
+|----------|----------|
+| - Desenvolver a funcionalidade de registro de usuário 📝 |  ![](BitrixSprint1_1.jpg)  |
+| - Criar a funcionalidade de registro do cuidador 🐕‍🦺 | ![](BitrixSprint1_2.jpg)  |
+| - Observações sobre a tarefa 🧐 | ![](BitrixSprint1_Coments.jpg)  |
+
 
 **Atividades:**
 - Projetar uma interface amigável de registro de usuário, capturando detalhes essenciais como nome, e-mail e senha.
@@ -148,7 +154,15 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 ## Sprint 2 - Avaliações e Comentários 🌟📝
 
 **Backlog:**
-- Implementar um sistema de avaliação ⭐
+
+
+| Descrição | Aplicação no Bitrix |
+|----------|----------|
+| - Implementar um sistema de avaliação 📝 |  ![](BitrixSprint2_1.jpg)  |
+| - Observações sobre a tarefa 🧐 | ![](BitrixSprint2_Coments.jpg) |
+
+
+
 
 **Atividades:**
 - Introduzir um sistema de avaliação intuitivo que permite aos usuários compartilharem suas opiniões após os serviços prestados.
@@ -158,9 +172,15 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 ## Sprint 3 - Busca Pela Excelência 🐕‍🦺🔍
 
 **Backlog:**
-- Encontrar um cuidador ideal 🕵️‍♀️
-- Analisar avaliações e comentários 🧐
-- Fechar negócio com o cuidador mais bem avaliado 📆
+
+
+| Descrição | Aplicação no Bitrix |
+|----------|----------|
+|- Encontrar um cuidador ideal 🕵️‍♀️ |  ![](BitrixSprint3_1.jpg)  |
+|- Analisar avaliações e comentários 🤔 | ![](BitrixSprint3_2.jpg) |
+|- Fechar negócio com o cuidador mais bem avaliado 📆 | ![](BitrixSprint3_3.jpg) |
+|- Observações sobre a tarefa 🧐 | ![](BitrixSprint3_Coments.jpg) |
+
 
 **Atividades:**
 - Desenvolver uma interface de busca elegante para os cuidadores, permitindo aos usuários filtrarem por localização, tipo de animal e serviços oferecidos.
@@ -170,12 +190,16 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 ## Notas Adicionais 📌
 
-- Cada sprint conclui com testes minuciosos de usabilidade e correção de eventuais bugs 🐞.
-- Fiquem atentos a possíveis aprimoramentos de segurança, como verificações de antecedentes para os cuidadores 🔐.
-- Comprometemo-nos a manter uma interface de aplicativo intuitiva e amigável, cativando e retendo nossos usuários! 💖
-- Lembrem-se de que nosso plano é uma sugestão dinâmica, sujeita a ajustes com base nas necessidades do projeto, capacidade da equipe de desenvolvimento e feedback valioso dos usuários ao longo da jornada de desenvolvimento.
+| Descrição | Aplicação no Bitrix |
+|----------|----------|
+|- Cada sprint conclui com testes minuciosos de usabilidade e correção de eventuais bugs 🐞, criamos então uma tarefa exclusiva para realização de testes unitários. |  ![](Bitrix_testesUnitarios.jpg)  |
+|- Ficamos atentos a possíveis aprimoramentos de segurança, como verificações de antecedentes para os cuidadores 🔐, criamos então uma tarefa exclusiva para verificação de um requisito específico de segurança. |  ![](Bitrix_Seguranca.jpg)  |
+|- Comprometemo-nos a manter uma interface de aplicativo intuitiva e amigável, cativando e retendo nossos usuários! 💖  | ![](Bitrix_testesFuncionais.jpg)  |
+|- Nosso plano foi fazer um projeto dinâmico, sujeita a ajustes com base nas necessidades do projeto. Para facilicar a organização e realização das tarefas utilizamos o quadro Kanban disponível na plataforma. | ![BitrixKanban](BitrixKanban.jpg) |
 
+O resultado foi a realização de todas as tarefas:
 
+![BitrixKanban](BitrixKanbanConcluido.jpg)
 
 </details>
 
