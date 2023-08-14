@@ -199,7 +199,7 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 O resultado foi a realização de todas as tarefas:
 
-![pfinal](projeto-final-M2_pages-to-jpg-0001.jpg)
+![Kanban](BitrixKanbanConcluido.jpg)
 
 </details>
 
