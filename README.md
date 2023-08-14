@@ -199,7 +199,7 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 O resultado foi a realização de todas as tarefas:
 
-![BitrixKanban](BitrixKanbanConcluido.jpg)
+![pfinal](projeto-final-M2_pages-to-jpg-0001.jpg)
 
 </details>
 
@@ -212,9 +212,28 @@ ___
 <summary>Módulo 2 Aula 3 - Projeto Final</summary>
 <br>
 
+🚀 O projeto final consistiu no preenchimento e apresentação do PDF incorporado neste repositório! Nosso objetivo é proporcionar uma experiência visual incrível. Confira as imagens para uma visualização mais fácil. 👀📄
+
+![Imagem 0001](projeto-final-M2_pages-to-jpg-0001.jpg)
+![Imagem 0002](projeto-final-M2_pages-to-jpg-0002.jpg)
+![Imagem 0003](projeto-final-M2_pages-to-jpg-0003.jpg)
+![Imagem 0004](projeto-final-M2_pages-to-jpg-0004.jpg)
+![Imagem 0005](projeto-final-M2_pages-to-jpg-0005.jpg)
+![Imagem 0006](projeto-final-M2_pages-to-jpg-0006.jpg)
+![Imagem 0007](projeto-final-M2_pages-to-jpg-0007.jpg)
+![Imagem 0008](projeto-final-M2_pages-to-jpg-0008.jpg)
+![Imagem 0009](projeto-final-M2_pages-to-jpg-0009.jpg)
+![Imagem 0010](projeto-final-M2_pages-to-jpg-0010.jpg)
+![Imagem 0011](projeto-final-M2_pages-to-jpg-0011.jpg)
+![Imagem 0012](projeto-final-M2_pages-to-jpg-0012.jpg)
+![Imagem 0013](projeto-final-M2_pages-to-jpg-0013.jpg)
+![Imagem 0014](projeto-final-M2_pages-to-jpg-0014.jpg)
+![Imagem 0015](projeto-final-M2_pages-to-jpg-0015.jpg)
+![Imagem 0016](projeto-final-M2_pages-to-jpg-0016.jpg)
+![Imagem 0017](projeto-final-M2_pages-to-jpg-0017.jpg)
+![Imagem 0018](projeto-final-M2_pages-to-jpg-0018.jpg)
 
 
-![projetoFinal](projeto-final-M2.pdf)
 
 </details>
 
