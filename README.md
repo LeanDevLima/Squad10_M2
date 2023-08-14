@@ -212,7 +212,7 @@ ___
 <summary>Módulo 2 Aula 3 - Projeto Final</summary>
 <br>
 
-🚀 O projeto final consistiu no preenchimento e apresentação do PDF incorporado neste repositório! Nosso objetivo é proporcionar uma experiência visual incrível. Confira as imagens para uma visualização mais fácil. 👀📄
+🚀 O projeto final consistiu no preenchimento e apresentação do PDF incorporado neste repositório como [projeto-final-M2.pdf](https://github.com/LeanDevLima/Squad10_M2/blob/main/projeto-final-M2.pdf)! Nosso objetivo é proporcionar uma experiência visual incrível. Confira as imagens para uma visualização mais fácil. 👀📄
 
 ![Imagem 0001](projeto-final-M2_pages-to-jpg-0001.jpg)
 ![Imagem 0002](projeto-final-M2_pages-to-jpg-0002.jpg)
@@ -232,8 +232,6 @@ ___
 ![Imagem 0016](projeto-final-M2_pages-to-jpg-0016.jpg)
 ![Imagem 0017](projeto-final-M2_pages-to-jpg-0017.jpg)
 ![Imagem 0018](projeto-final-M2_pages-to-jpg-0018.jpg)
-
-
 
 </details>
 
