@@ -140,9 +140,9 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 | Descrição | Aplicação no Bitrix |
 |----------|----------|
-| - Desenvolver a funcionalidade de registro de usuário 📝 |  ![](BitrixSprint1_1.jpg)  |
-| - Criar a funcionalidade de registro do cuidador 🐕‍🦺 | ![](BitrixSprint1_2.jpg)  |
-| - Observações sobre a tarefa 🧐 | ![](BitrixSprint1_Coments.jpg)  |
+| - Desenvolver a funcionalidade de registro de usuário 📝 |  ![](bitrixImg\BitrixSprint1_1.jpg)  |
+| - Criar a funcionalidade de registro do cuidador 🐕‍🦺 | ![](bitrixImg\BitrixSprint1_2.jpg)  |
+| - Observações sobre a tarefa 🧐 | ![](bitrixImg\BitrixSprint1_Coments.jpg)  |
 
 
 **Atividades:**
@@ -158,8 +158,8 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 | Descrição | Aplicação no Bitrix |
 |----------|----------|
-| - Implementar um sistema de avaliação 📝 |  ![](BitrixSprint2_1.jpg)  |
-| - Observações sobre a tarefa 🧐 | ![](BitrixSprint2_Coments.jpg) |
+| - Implementar um sistema de avaliação 📝 |  ![](bitrixImg\BitrixSprint2_1.jpg)  |
+| - Observações sobre a tarefa 🧐 | ![](bitrixImg\BitrixSprint2_Coments.jpg) |
 
 
 
@@ -176,10 +176,10 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 | Descrição | Aplicação no Bitrix |
 |----------|----------|
-|- Encontrar um cuidador ideal 🕵️‍♀️ |  ![](BitrixSprint3_1.jpg)  |
-|- Analisar avaliações e comentários 🤔 | ![](BitrixSprint3_2.jpg) |
-|- Fechar negócio com o cuidador mais bem avaliado 📆 | ![](BitrixSprint3_3.jpg) |
-|- Observações sobre a tarefa 🧐 | ![](BitrixSprint3_Coments.jpg) |
+|- Encontrar um cuidador ideal 🕵️‍♀️ |  ![](bitrixImg\BitrixSprint3_1.jpg)  |
+|- Analisar avaliações e comentários 🤔 | ![](bitrixImg\BitrixSprint3_2.jpg) |
+|- Fechar negócio com o cuidador mais bem avaliado 📆 | ![](bitrixImg\BitrixSprint3_3.jpg) |
+|- Observações sobre a tarefa 🧐 | ![](bitrixImg\BitrixSprint3_Coments.jpg) |
 
 
 **Atividades:**
@@ -192,14 +192,14 @@ Nos lançamos em uma jornada emocionante para dar vida ao aplicativo LovePet. �
 
 | Descrição | Aplicação no Bitrix |
 |----------|----------|
-|- Cada sprint conclui com testes minuciosos de usabilidade e correção de eventuais bugs 🐞, criamos então uma tarefa exclusiva para realização de testes unitários. |  ![](Bitrix_testesUnitarios.jpg)  |
-|- Ficamos atentos a possíveis aprimoramentos de segurança, como verificações de antecedentes para os cuidadores 🔐, criamos então uma tarefa exclusiva para verificação de um requisito específico de segurança. |  ![](Bitrix_Seguranca.jpg)  |
-|- Comprometemo-nos a manter uma interface de aplicativo intuitiva e amigável, cativando e retendo nossos usuários! 💖  | ![](Bitrix_testesFuncionais.jpg)  |
-|- Nosso plano foi fazer um projeto dinâmico, sujeita a ajustes com base nas necessidades do projeto. Para facilicar a organização e realização das tarefas utilizamos o quadro Kanban disponível na plataforma. | ![BitrixKanban](BitrixKanban.jpg) |
+|- Cada sprint conclui com testes minuciosos de usabilidade e correção de eventuais bugs 🐞, criamos então uma tarefa exclusiva para realização de testes unitários. |  ![](bitrixImg\Bitrix_testesUnitarios.jpg)  |
+|- Ficamos atentos a possíveis aprimoramentos de segurança, como verificações de antecedentes para os cuidadores 🔐, criamos então uma tarefa exclusiva para verificação de um requisito específico de segurança. |  ![](bitrixImg\Bitrix_Seguranca.jpg)  |
+|- Comprometemo-nos a manter uma interface de aplicativo intuitiva e amigável, cativando e retendo nossos usuários! 💖  | ![](bitrixImg\Bitrix_testesFuncionais.jpg)  |
+|- Nosso plano foi fazer um projeto dinâmico, sujeita a ajustes com base nas necessidades do projeto. Para facilicar a organização e realização das tarefas utilizamos o quadro Kanban disponível na plataforma. | ![BitrixKanban](bitrixImg\BitrixKanban.jpg) |
 
 O resultado foi a realização de todas as tarefas:
 
-![Kanban](BitrixKanbanConcluido.jpg)
+![Kanban](bitrixImg\BitrixKanbanConcluido.jpg)
 
 </details>
 
@@ -214,24 +214,24 @@ ___
 
 🚀 O projeto final consistiu no preenchimento e apresentação do PDF incorporado neste repositório como [projeto-final-M2.pdf](https://github.com/LeanDevLima/Squad10_M2/blob/main/projeto-final-M2.pdf)! Nosso objetivo é proporcionar uma experiência visual incrível. Confira as imagens para uma visualização mais fácil. 👀📄
 
-![Imagem 0001](projeto-final-M2_pages-to-jpg-0001.jpg)
-![Imagem 0002](projeto-final-M2_pages-to-jpg-0002.jpg)
-![Imagem 0003](projeto-final-M2_pages-to-jpg-0003.jpg)
-![Imagem 0004](projeto-final-M2_pages-to-jpg-0004.jpg)
-![Imagem 0005](projeto-final-M2_pages-to-jpg-0005.jpg)
-![Imagem 0006](projeto-final-M2_pages-to-jpg-0006.jpg)
-![Imagem 0007](projeto-final-M2_pages-to-jpg-0007.jpg)
-![Imagem 0008](projeto-final-M2_pages-to-jpg-0008.jpg)
-![Imagem 0009](projeto-final-M2_pages-to-jpg-0009.jpg)
-![Imagem 0010](projeto-final-M2_pages-to-jpg-0010.jpg)
-![Imagem 0011](projeto-final-M2_pages-to-jpg-0011.jpg)
-![Imagem 0012](projeto-final-M2_pages-to-jpg-0012.jpg)
-![Imagem 0013](projeto-final-M2_pages-to-jpg-0013.jpg)
-![Imagem 0014](projeto-final-M2_pages-to-jpg-0014.jpg)
-![Imagem 0015](projeto-final-M2_pages-to-jpg-0015.jpg)
-![Imagem 0016](projeto-final-M2_pages-to-jpg-0016.jpg)
-![Imagem 0017](projeto-final-M2_pages-to-jpg-0017.jpg)
-![Imagem 0018](projeto-final-M2_pages-to-jpg-0018.jpg)
+![Imagem 0001](projetoFinalImg\projeto-final-M2_pages-to-jpg-0001.jpg)
+![Imagem 0002](projetoFinalImg\projeto-final-M2_pages-to-jpg-0002.jpg)
+![Imagem 0003](projetoFinalImg\projeto-final-M2_pages-to-jpg-0003.jpg)
+![Imagem 0004](projetoFinalImg\projeto-final-M2_pages-to-jpg-0004.jpg)
+![Imagem 0005](projetoFinalImg\projeto-final-M2_pages-to-jpg-0005.jpg)
+![Imagem 0006](projetoFinalImg\projeto-final-M2_pages-to-jpg-0006.jpg)
+![Imagem 0007](projetoFinalImg\projeto-final-M2_pages-to-jpg-0007.jpg)
+![Imagem 0008](projetoFinalImg\projeto-final-M2_pages-to-jpg-0008.jpg)
+![Imagem 0009](projetoFinalImg\projeto-final-M2_pages-to-jpg-0009.jpg)
+![Imagem 0010](projetoFinalImg\projeto-final-M2_pages-to-jpg-0010.jpg)
+![Imagem 0011](projetoFinalImg\projeto-final-M2_pages-to-jpg-0011.jpg)
+![Imagem 0012](projetoFinalImg\projeto-final-M2_pages-to-jpg-0012.jpg)
+![Imagem 0013](projetoFinalImg\projeto-final-M2_pages-to-jpg-0013.jpg)
+![Imagem 0014](projetoFinalImg\projeto-final-M2_pages-to-jpg-0014.jpg)
+![Imagem 0015](projetoFinalImg\projeto-final-M2_pages-to-jpg-0015.jpg)
+![Imagem 0016](projetoFinalImg\projeto-final-M2_pages-to-jpg-0016.jpg)
+![Imagem 0017](projetoFinalImg\projeto-final-M2_pages-to-jpg-0017.jpg)
+![Imagem 0018](projetoFinalImg\projeto-final-M2_pages-to-jpg-0018.jpg)
 
 </details>
 
